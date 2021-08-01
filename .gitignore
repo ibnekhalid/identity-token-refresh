@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Demo
+/Application/bin/Debug
+/Application/obj
+/Core/bin/Debug
+/Core/obj
+/Persistent/bin/Debug
+/Persistent/obj
+/Demo/appsettings.Development.json
